@@ -121,7 +121,6 @@ pnpm test -- --coverage # カバレッジレポートの生成
 ## ドキュメント
 
 - 📘[仕様書](./doc/SPEC.md)
-- 🧱[設計書](./doc/DESIGN.md)
 - 🔍[テスト方針](./doc/TDD_PLAN.md)
 
 ## License
