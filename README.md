@@ -96,6 +96,7 @@ function MyApp() {
 | ------------ | ------ | -------------------- |
 | start        | number | 区間の始点となる数値 |
 | end          | number | 区間の終点となる数値 |
+| name         | string | 区間の名前           |
 | color        | string | 選択区間の色         |
 
 ### DragridCSSProperties
